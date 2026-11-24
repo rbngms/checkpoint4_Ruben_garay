@@ -10,11 +10,11 @@ Agente de **Calificación de Leads** construido en n8n. Este checkpoint extiende
 | Casilla de correo | **Gmail** | Leer correos entrantes (trigger) y crear borradores (nunca envía) |
 | Canal del equipo | **Slack** | Avisar al equipo de cada correo procesado y de cada escalamiento |
 
-![Credenciales de n8n](credentials.png)
+![Credenciales de n8n](credenciales.png)
 
 ## Archivo
 
-- `checkpoint4_ruben_garay.json` — workflow exportado desde n8n (Workflow > Download).
+- `checkpoint4_Ruben_Garay.json` — workflow exportado desde n8n (Workflow > Download).
 
 ## Circuito de correo entrante
 
